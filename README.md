@@ -82,3 +82,5 @@ src/main.cpp               # Simulation, measurement model, visualization
 CMakeLists.txt
 ```
 
+## Demo
+<img width="864" height="864" alt="download" src="https://github.com/user-attachments/assets/dbe68dd6-8f8f-4ba6-b758-bc5b89168791" />
