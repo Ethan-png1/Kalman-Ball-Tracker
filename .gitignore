@@ -1,0 +1,7 @@
+# Build output (regenerate with cmake)
+build/
+
+# Editor / machine-specific config
+.vscode/
+
+
