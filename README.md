@@ -82,4 +82,3 @@ src/main.cpp               # Simulation, measurement model, visualization
 CMakeLists.txt
 ```
 
-The repo also contains `yolo26n.pt` / `yolo26n.onnx` / `import.py`, leftovers from an earlier version that tracked a real ball from a webcam with YOLO detection. They are unused by the current build.
